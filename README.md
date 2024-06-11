@@ -4,7 +4,7 @@ Nesse projeto utilizamos o conceito de (CRUD) que é o elemento base da interaç
 Outras tecnologias, como "Axios" e o "React Router Dom" que executa as rotas de mudança de páginas, fazem parte do projeto.<br>
 Utilizamos uma API externa no projeto (JSON Placeholder) para importar os dados de exibição.<br><br>
 Ao acessarmos a HOME é realizado o "Get" de todos os posts na API:<br><br>
-<img src="../react-axios/public/post1.png" alt="imagem da Home">
+<img src="./public/post1.png" alt="imagem da Home">
 
 <br><br>
 No acesso de um único post é feito o GET com base no ID que foi enviado pela função e esse post é exibido na tela:<br><br>
